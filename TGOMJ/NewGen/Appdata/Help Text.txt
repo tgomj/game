@@ -1,0 +1,110 @@
+`Always/base score
+These &291 or &301 are always given for completing the &180.
+
+`Always/limit score
+The &280 is given for completing the &180. Enter any &291 or &301; it will be ignored and the &280 given.
+
+`Hand/number played is less than...
+The number of &181 played in the game. The condition is true if the &180 count is less than your specified number.
+
+`Hand/number won is less than...
+The number of &181 won by the winner. The condition is true if the &180 count is less than your specified number.
+
+`Hand/concealed
+If the &320 is &402 and the winning tile is a &220 or self-drawn tile. This is in addition to the standard allotment.
+
+`Hand/concealed self-drawn
+If the &320 is &402 and the winning tile is self-drawn. This is in addition to the standard allotment.
+
+`Hand/not concealed
+If the &320 is not &402.
+
+`Penalties/none
+If the winner did not incur any &261.
+
+`Chow/not declared
+If &00 was not &242 by any participant.
+
+`Chow/declared
+If Chow was declared by any participant.
+
+`Pung/not declared
+If &10 was not &242 by any participant.
+
+`Pung/declared
+If &10 was &242 by any participant.
+
+`Kong/not declared
+If &20 was not &242 by any participant.
+
+`Kong/declared
+If &20 was &242 by any participant.
+
+`Riichi/not declared
+If &30 was not &242 by any participant.
+
+`Riichi/declared by winner
+If &30 was &242 by the winner.
+
+`Riichi/declared by opponent(s)
+If &30 was &242 by any of the participants except the winner.
+
+`Riichi/declared by winner and opponent(s)
+If &30 was &242 by the winner and at least one other participant.
+
+`Round/east
+If the round is the East Round.
+
+`Round/south
+If the round is the South Round.
+
+`Round/west
+If the round is the West Round.
+
+`Round/north
+If the round is the North Round.
+
+`Dealer/winner is dealer
+If the winner is the &330.
+
+`Dealer/winner is not dealer
+If the winner is not the &330.
+
+`Turns/number is less than...
+The number of turns played in the &180. The condition is true if the turn count is less than your specified number.
+
+`Winds/shifted
+If the previous &180 had caused the &101 to shift (ie: the &330 lost the previous &180).
+
+`Winds/hadn't shifted
+If the previous &180 had not caused the &101 to shift (ie: the &330 won the previous &180).
+
+`Won/by a discard
+If the winner won by a &220.
+
+`Won/by a self-draw
+If the winner won by drawing from the wall.
+
+`Won/by a supplemental tile
+If the winner won by drawing a supplemental tile from the &420.
+
+`Won/by robbing a Kong
+If the winner won by robbing a &20. This is in addition to the standard allotment.
+
+`Discard/no discards by winner
+If the winner has no tiles in his/her &220 area. This is in addition to the standard allotment.
+
+`Discard/no discards by anyone
+If there are no tiles in the &220 area. This is in addition to the standard ard allotment.
+
+`Discard/no discards by dealer
+If the &330 has no tiles in his/her &220 area. This is in addition to the standard allotment.
+
+`Melds/no melds by anyone
+If there are no &171 on the &370.
+
+`Wall/exhausted
+If the regular wall has no tiles left. This is in addition to the standard allotment.
+
+`Wall/not exhausted
+If the regular wall has tiles left.

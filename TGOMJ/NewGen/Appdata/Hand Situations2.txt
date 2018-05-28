@@ -1,0 +1,37 @@
+0/Always/base &380
+1/Always/&280 &380
+2/&180/number played is less than...
+3/&180/number won is less than...
+4/&180/&402 won by &220 or self-drawn
+5/&180/&402 won by self-drawn
+6/&180/not &402
+7/&261/none
+8/&00/not &242
+9/&00/&242
+10/&10/not &242
+11/&10/&242
+12/&20/not &242
+13/&20/&242
+14/&30/not &242
+15/&30/&242 by winner
+16/&30/&242 by opponent(s)
+17/&30/&242 by winner and opponent(s)
+18/Round/east
+19/Round/south
+20/Round/west
+21/Round/north
+22/&330/winner is &330
+23/&330/winner is not &330
+24/Turns/number is less than...
+25/&101/shifted
+26/&101/hadn't shifted
+27/Won/by a &220
+28/Won/by a self-drawn
+29/Won/by a supplemental tile
+30/Won/by robbing a &20
+31/&220/no &221 by winner
+32/&220/no &221 by anyone
+33/&220/no &221 by &330
+34/&171/no &171 by anyone
+35/Wall/exhausted
+36/Wall/not exhausted

@@ -1,0 +1,18 @@
+These are the tooltips for the buttonbars.
+
+ToolbarA - main toolbar
+/1000/Tile order
+/1001/Tile order
+/1002/Tile order
+/1003/Tile order
+/1004/Tile order
+/1005/Compile
+/1006/Help
+
+ToolbarD - ViewA tree
+/1050/Add new node
+/1051/Delete selected node and its children
+/1052/Rename node
+/1053/Omit or include from compile
+/1054/Convert to a folder-type node
+/1055/

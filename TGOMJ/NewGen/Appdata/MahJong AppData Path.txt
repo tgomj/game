@@ -1,0 +1,4 @@
+E:\E\CodeBlocks\Games\Mahjong\Mahjong\Appdata\
+
+(This file needs to be present, but its contents
+are now irrelevant.)
