@@ -1,0 +1,17 @@
+These are the tooltips for the buttonbar.
+Resource id 1010 is the statusbar (ToolbarZ). It has no tooltip.
+
+/1001/Game menu
+/1002/Disk menu
+/1003/Setup menu
+/1004/Action menu
+/1005/Help
+/1010/
+/1011/
+/1012/
+/1013/
+/1014/
+/1015/
+/1016/
+/1017/
+/1018/

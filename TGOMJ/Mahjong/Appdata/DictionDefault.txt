@@ -1,0 +1,671 @@
+; This file contains the default text words and phrases for the diction.
+
+; Words (single, plural, past)
+; ------------------------------------------------
+
+; &0
+chow, chows, chowed
+; &1
+pung, pungs, punged
+; &2
+kong, kongs, konged
+; &3
+riichi, riichis, riichied
+; &4
+sacred mah jong, sacred mah jongs, sacred mah jonged
+; &5
+mah jong, mah jongs, mah jonged
+; &6
+stick, sticks, ---
+; &7
+ball, balls, ---
+; &8
+character, characters, ---
+; &9
+dragon, dragons, ---
+; &10
+wind, winds, ---
+; &11
+terminal, terminals, ---
+; &12
+honor, honors, ---
+; &13
+simple, simples, ---
+; &14
+sequence, sequences, ---
+; &15
+triplet, triplets, ---
+; &16
+four, fours, ---
+; &17
+meld, melds, melded
+; &18 (rack)
+hand, hands, ---
+; &19 (melee)
+hand, hands, ---
+; &20 (melee)
+draw, draws, drawed
+; &21 (action)
+draw, draws, drawn
+; &22
+discard, discards, discarded
+; &23
+rack, racks, ---
+; &24
+declare, declares, declared
+; &25
+lucky set, lucky sets, ---
+; &26
+penalty, penalties, ---
+; &27
+bone, bones, ---
+; &28
+limit, limits, ---
+; &29
+point, points, ---
+; &30
+double, doubles, ---
+; &31
+tie, ties, tied
+; &32
+winning hand, winning hands, ---
+; &33
+dealer, ---, ---
+; &34
+own wind, own winds, ---
+; &35
+one-chance, ---, ---
+; &36
+no-points, no-points, ---
+; &37
+board, ---, ---
+; &38
+score, scores, scored
+; &39
+payment, payments, ---
+; &40
+conceal, conceals, concealed
+; &41
+lucky pair, lucky pairs, ---
+; &42
+dead wall, ---, ---
+; &43
+pair, pairs, paired
+; &44
+declaring, ---, ---
+; &45
+going out, ---, ---
+; &46 (sacred declare)
+sacred, sacred declares, ---
+; &47
+sacred discard, sacred discards, ---
+; &48
+sacred discard 147, ---, ---
+; &49
+sacred tile, sacred tiles, ---
+
+; Menus
+; ------------------------------------------------
+
+; between hands
+between &181
+; expose all racks
+expose all &231
+; default diction
+default diction
+; player melds quickly
+player &171 quickly
+; set #1 diction
+set #1
+; auto delete saved games
+auto delete saved games
+; game length
+game length
+; allow dora
+dora
+; hide reverse dora
+hide reverse dora
+; kong
+&20
+; reverse
+reverse
+; reverse kong
+reverse &20
+; riichi (2 menus)
+&30
+; riichi markers
+&30 markers
+; sacred mah jong
+sacred mah jong
+; default skin
+default skin
+; blue stone skin
+blue stone skin
+; magic realm skin
+magic realm skin
+; white light skin
+white light skin
+; auto left button...
+auto left button...
+; draw into rack
+&200 into &230
+; hints...
+hints...
+; order rack tiles...
+order &230 tiles...
+; show racks at end
+show &231 at end
+; start maximized
+start maximized
+; stages
+stages
+; animate payments
+animate &391
+; build the wall
+build the wall
+; deal smoothly
+deal smoothly
+; player builds wall
+player builds wall
+; prebuilt wall
+prebuilt wall
+; opening ceremonies
+opening ceremonies
+; visuals
+visuals
+; button bar
+button bar
+; japanese tiling
+japanese tiling
+; lights
+lights
+; mat
+mat
+; messages
+messages
+; pointer has dot
+pointer has dot
+; skins...
+skins...
+; tabletop...
+tabletop...
+; tileset...
+tileset...
+; windows
+windows
+; dora window
+dora window
+; meld window
+&170 window
+; rack analyze window
+&230 analyze window
+; round window
+round window
+; rules window
+rules window
+; score window
+&380 window
+; tournament news window
+tournament news window
+; tournament window
+tournament window
+; return tournament prize
+return tournament prize
+; scoring rules...
+scoring rules...
+; sacred discard rule
+sacred discard rule
+; sacred discard 147 rule
+sacred discard 147 rule
+; sacred declares
+&461
+; customize button bar
+customize button bar
+; auto popup declares
+auto popup &241
+; cast window
+cast spell window
+; sacred marker
+sacred marker
+; mini-games
+mini-games
+; forfeit meld
+forfeit &170
+
+; Phrases
+; ------------------------------------------------
+
+; winning the hand
+winning the &190
+
+; melded simple triplet
+&172 &130 &150
+
+; melded terminal or honor triplet
+&172 &110 or &120 &150
+
+; concealed simple triplet
+&402 &130 &150
+
+; concealed terminal or honor triplet
+&402 &110 or &120 &150
+
+; melded simple four
+&172 &130 &160
+
+; melded terminal or honor four
+&172 &110 or &120 &160
+
+; concealed simple four
+&402 &130 &160
+
+; concealed terminal or honor four
+&402 &110 or &120 &160
+
+; pair of dragons ('lucky pair')
+&430 of &91 ('&410')
+
+; pair of prevailing winds ('lucky pair')
+&430 of prevailing &101 ('&410')
+
+; pair of own winds ('own wind pair')
+&430 of own &101 ('own &100 &430')
+
+; triplet or four of dragons ('lucky set')
+&150 or &160 of &91 ('&250')
+
+; triplet or four of prevailing winds ('lucky set')
+&150 or &160 of prevailing &101 ('&250')
+
+; triplet or four of own winds ('lucky set')
+&150 or &160 of own &101 ('&250')
+
+; all triplets and fours, 0,1,2 concealed
+all &151 and &161, 0,1,2 &402
+
+; all triplets and fours, 3 concealed
+all &151 and &161, 3 &402
+
+; all triplets and fours, 4 concealed
+all &151 and &161, 4 &402
+
+; three concealed triplets and 1 sequence
+Three &402 &151 and 1 &140
+
+; run of 1..9, one suit
+run of 1..9, one suit
+
+; all simples
+all &131
+
+; all honors
+all &121
+
+; all terminals
+all &111
+
+; terminals and honors only
+&111 and &121 only
+
+; terminals and honors in each set
+&111 and &121 in each set
+
+; one suit only
+one suit only
+
+; one suit with honors
+one suit with &121
+
+; TEXT_INSTR: if a set has a discarded tile, it's melded
+if a set has a &222 tile, it's &172
+
+; TEXT_INSTR: at least 1 terminal, wind or dragon tile in each set, pair
+at least 1 &110, &100 or &90 tile in each set, &430
+
+; special hand: little three dragons
+special &180: little three &91
+
+; TEXT_INSTR: two dragon triplets or fours and a dragon pair
+two &90 &151 or &161 and a &90 &430
+
+; special hand: big three dragons
+special &180: big three &91
+
+; TEXT_INSTR: three dragon triplets or fours
+three &90 &151 or &161
+
+; special hand: little four winds
+special &180: little &160 &101
+
+; TEXT_INSTR: three wind triplets or fours and a wind pair
+three &100 &151 or &161 and a &100 &430
+
+; special hand: big four winds
+special &180: big four &101
+
+; TEXT_INSTR: four wind triplets or fours
+four &100 &151 or &161
+
+; special hand: heavenly hand
+special &180: heavenly &180
+
+; TEXT_INSTR: dealer goes out immediately with dealt hand
+&330 goes out immediately with dealt &180
+
+; special hand: earthly hand, dealer's first discard
+special &180: earthly &180, &330's first &220
+
+; TEXT_INSTR: non-dealer goes out on dealer's first discard
+non-&330 goes out on &330's first &220
+
+; special hand: earthly hand, self-drawn
+special &180: earthly &180, self-drawn
+
+; TEXT_INSTR: non-dealer goes out on first turn before any chow or pung or kong
+non-&330 goes out on first turn before any &00 or &10 or &20
+
+; special hand: nine gates
+special &180: nine gates
+
+; TEXT_INSTR: one suit, 1112345678999 concealed and any matching tile
+one suit, 1112345678999 &402 and any matching tile
+
+; special hand: thirteen orphans
+special &180: thirteen orphans
+
+; TEXT_INSTR: Three dragons, 4 winds, 3 ones, 3 nines, all different, and any matching tile
+Three &91, 4 &101, 3 ones, 3 nines, all different, and any matching tile
+
+; special hand: eighth extra hand
+special &180: eighth extra &190
+
+; TEXT_INSTR: winds have been calm for 8 extra consecutive turns
+&101 have been calm for 8 extra consecutive turns
+
+; one-chance hand
+&350 &180
+
+; TEXT_INSTR: only one tile could complete the winning set
+only one tile could complete the winning set
+
+; true no-points hand
+true no-&291 &180
+
+; TEXT_INSTR: four sequences, no lucky tiles, not a one-chance, won by discard
+four &141, no lucky tiles, not a &350, won by &220
+
+; going out on self-drawn tile
+&450 on self-drawn tile
+
+; going out with last tile of wall
+&450 with last tile of wall
+
+; going out with last discarded tile of hand
+&450 with last &222 tile of &190
+
+; going out by robbing a kong
+&450 by robbing a &20
+
+; the kong tile robbed is treated as a discarded tile
+the &20 tile robbed is treated as a &222 tile
+
+; going out with a supplement tile (from dead wall)
+&450 with a supplement tile (from &420)
+
+; going out by riichi
+&450 by &30
+
+; declaring riichi on first turn
+declaring &30 on first turn
+
+; going out within one turn of riichi
+&450 within one turn of &30
+
+; concealed hand won by self-drawn tile
+&402 &180 won by self-drawn tile
+
+; concealed hand won by discarded tile
+&402 &180 won by &222 tile
+
+; points were loaned from the bank at 0% interest
+&291 were loaned from the bank at 0% interest
+
+; paying down bank loans
+paying down bank loans
+
+; this is not a valid hand
+this is not a valid &180
+
+; one or more melds have multiple exposed tiles
+one or more &171 have multiple exposed tiles
+
+; the hand opened with 4 identical discards
+the &190 opened with 4 identical &221
+
+; three participants have declared mah jong
+three participants have &242 &50
+
+; a participant has been dealt nine different terminals or honors
+a participant has been dealt nine different &111 or &121
+
+; four kongs have been melded
+four &21 have been &172
+
+; the hand has ended in a draw
+the &190 has ended in a &200
+
+; is the winner of the hand
+is the winner of the &190
+
+; you are the winner of the hand
+you are the winner of the &190
+
+; nobody wins the hand
+nobody wins the &190
+
+; dealer goes out on self-drawn tile
+&330 goes out on self-drawn tile
+
+; dealer goes out on a discarded tile
+&330 goes out on a &222 tile
+
+; winner goes out on a self-drawn tile
+winner goes out on a self-drawn tile
+
+; winner goes out on a discarded tile
+winner goes out on a &222 tile
+
+; 6 times the score
+6 times the &380
+
+; 4 times the score
+4 times the &380
+
+; double the score
+double the &380
+
+; the score
+the &380
+
+; dora tiles
+dora tiles
+
+; HOUSE01 Base points
+base &291
+
+; HOUSE01 Base point
+base &290
+
+; HOUSE01 Base doubles
+base &301
+
+; HOUSE01 Base double
+base &300
+
+; HOUSE02 Base limit
+base &280
+
+; HOUSE03 Less than ? hands played
+less than ? &181 played
+
+; HOUSE04 Less than ? hands won
+less than ? &181 won
+
+; HOUSE05 Hand is concealed, discard or self-drawn
+&180 is &402, &220 or self-drawn
+
+; HOUSE06 Hand is concealed, self-drawn
+&180 is &402, self-drawn
+
+; HOUSE07 Hand is not concealed
+&180 is not &402
+
+; HOUSE08 No penalties incurred
+no &261 incurred
+
+; HOUSE09 No Chows declared
+no &01 &242
+
+; HOUSE10 One or more Chows declared
+one or more &01 &242
+
+; HOUSE11 No Pungs declared
+no &11 &242
+
+; HOUSE12 One or more Pungs declared
+one or more &11 &242
+
+; HOUSE13 No Kongs declared
+no &21 &242
+
+; HOUSE14 One or more Kongs declared
+one or more &21 &242
+
+; HOUSE15 No Riichis declared
+no &31 &242
+
+; HOUSE16 Riichi declared
+&31 &242
+
+; HOUSE17 Riichi declared by opponents 
+&31 &242 by opponents
+
+; HOUSE18 Riichi declared by you and opponents
+&31 &242 by you and opponents
+
+; HOUSE19 Won in east round
+won in east round
+
+; HOUSE20 Won in south round
+won in south round
+
+; HOUSE21 Won in west round
+won in west round
+
+; HOUSE22 Won in north round
+won in north round
+
+; HOUSE23 Won by dealer
+won by &330
+
+; HOUSE24 Not won by dealer
+not won by &330
+
+; HOUSE25 Won in less than ? turns
+won in less than ? turns
+
+; HOUSE26 Winds shifted before the hand
+&101 shifted before the &180
+
+; HOUSE27 Winds were calm before the hand
+&101 were calm before the &180
+
+; HOUSE28 Won by a discard
+won by a &220
+
+; HOUSE29 Going out by a self-drawn tile
+&450 by a self-drawn tile
+
+; HOUSE30 No discards
+no &221
+
+; HOUSE31 No discards by anyone
+no &221 by anyone
+
+; HOUSE32 No discards by dealer
+no &221 by &330
+
+; HOUSE33 No melds on the board
+no &171 on the &370
+
+; HOUSE34 Regular wall is exhausted
+regular wall is exhausted
+
+; HOUSE35 Regular wall is not exhausted
+regular wall is not exhausted
+
+; pair of own, prevailing winds ('own wind+lucky pair')
+&430 of own, prevailing &101 ('own &100+&410')
+
+; Function Accelerators (Phrases) (obsolete)
+; ------------------------------------------------
+
+; Pause game
+Pause game
+; End thinking time
+End thinking time
+; Forfeit meld
+Forfeit &170
+; 1 key
+1 key
+; 2 key
+2 key
+; 3 key
+3 key
+; 4 key
+4 key
+; 5 key
+5 key
+; 6 key
+6 key
+; Discard grabbed tile
+&220 grabbed tile
+; Draw from wall
+&200 from wall
+; Declare Chow
+&240 &00
+; Declare Pung, toggle movieCam
+&240 &10, toggle movieCam
+; Declare Kong
+&240 &20
+; Declare Mah Jong
+&240 &50
+; Declare Riichi
+&240 &30
+; Camera in
+Camera in
+; Camera out
+Camera out
+; Camera up
+Camera up
+; Camera down
+Camera down
+; Reshuffle, freeze movieCam, all discards grabbable
+Reshuffle, freeze movieCam, all &221 grabbable
+; Mr. Guide
+Mr. Guide
+; Hint
+Hint
+; Snapshot
+Snapshot
+; Volume up
+Volume up
+; Volume down
+Volume down
+; Peek at left robot's rack
+Peek at left robot's &230
+; Peek at right robot's rack
+Peek at right robot's &230
+; Sacred declares
+&461
+
