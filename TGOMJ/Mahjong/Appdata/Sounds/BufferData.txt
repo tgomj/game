@@ -1,0 +1,12 @@
+1024,1024
+
+The first line of this file must contain two numbers.
+
+SOUND BUFFER DATA SIZES (IN BYTES)
+----------------------------------
+The first number is the size of each sound buffer.
+The second number is the amount of data that is
+fetched on each cycle.
+The number of sound buffers cannot be changed.
+
+THE NUMBERS MUST BE IDENTICAL.
